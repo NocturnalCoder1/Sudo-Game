@@ -7,7 +7,7 @@ This is my Project for the term requirement of CpE9: Software Design using the A
 
 
 # A: Awareness
-Sudo-Game: Logical and Problem-solving Game Application
+Sudo-Game: Logical and Problem-solving game software
 
 
 # B: Baseline
